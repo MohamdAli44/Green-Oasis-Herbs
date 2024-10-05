@@ -421,7 +421,7 @@ li {
 --------------------------------------------------------------*/
 #hero {
   width: 100%;
-  height: calc(100vh - 70px);
+  height: calc(100vh - 20px);
   background-color: rgba(51, 75, 61, 0.8);
   overflow: hidden;
   position: relative;
