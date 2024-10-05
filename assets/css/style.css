@@ -461,6 +461,12 @@ li {
   text-align: center;
   left: 28%;
 }
+@media (max-width: 1320px) {
+  #hero .hero-container {
+    left: 15%;
+    top: 50px;
+  }
+}
 @media (max-width: 1024px) {
   #hero .hero-container {
     left: 10%;
