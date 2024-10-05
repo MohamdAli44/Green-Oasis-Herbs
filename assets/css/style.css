@@ -1431,6 +1431,7 @@ section {
   
 }
 #footer .footer-top .footer-info img {
+  margin-top: 0.5rem;
  margin-bottom: 1rem;
 }
 #footer .footer-top .footer-info p {
@@ -1447,7 +1448,6 @@ section {
 #footer .footer-top .social-links a {
   font-size: 16px;
   display: inline-block;
-  background: #394047;
   color: #fff;
   line-height: 1;
   padding: 10px 0;
@@ -1459,14 +1459,14 @@ section {
   transition: 0.3s;
 }
 #footer .footer-top .social-links a:hover {
-  background: #81ba45;
+  background: #e8aa27;
   color: #fff;
   text-decoration: none;
 }
 #footer .footer-top h4 {
   font-size: 16px;
   font-weight: bold;
-  color: #fff;
+  color: #e8aa27;
   text-transform: uppercase;
   position: relative;
   padding-bottom: 12px;
@@ -1481,7 +1481,7 @@ section {
 }
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
-  color: #81ba45;
+  color: #e8aa27;
   font-size: 18px;
   line-height: 1;
 }
@@ -1500,13 +1500,16 @@ section {
   line-height: 1;
 }
 #footer .footer-top .footer-links ul a:hover {
-  color: #81ba45;
+  color: #e8aa27;
 }
 #footer .footer-top .footer-contact {
   margin-bottom: 30px;
 }
 #footer .footer-top .footer-contact p {
   line-height: 26px;
+}
+#footer .footer-top .footer-contact a{
+  color: #e8aa27;
 }
 #footer .copyright {
   text-align: center;
