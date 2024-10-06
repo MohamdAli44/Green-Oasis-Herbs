@@ -459,7 +459,13 @@ li {
   bottom: 0;
   top: 70px;
   text-align: center;
-  left: 22%;
+  left: 28%;
+}
+@media (max-width: 1440px) {
+  #hero .hero-container {
+    left: 20%;
+    top: 50px;
+  }
 }
 @media (max-width: 1320px) {
   #hero .hero-container {
